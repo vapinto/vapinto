@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vapinto
 - 👀 I’m interested in DevOps,SRE,Containers, Docker, Kubertenes, Application Security,
-- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, Git
+- 🌱 I’m currently learning Docker, Kubernetes, Jenkins, Git, OpenShift and Azure
 - 💞️ I’m looking for friends to help me grow!
 - 📫 How to reach me?
 
